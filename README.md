@@ -1,4 +1,8 @@
-## Hi there 👋
+## 안녕하세요 윤산입니다.
+
+인디 해커로서 다양한 소프트웨어 뿐만 아니라 만화, 소설 등 다양한 창작 활동도 하고 있어요.
+
+benfsong11@naver.com
 
 <!--
 **ynsnih/ynsnih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
